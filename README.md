@@ -1,18 +1,15 @@
 # Personal Portfolio 🔥
-> https://rajaprerak.github.io/
+> https://jignesh91.github.io/jigneshgondaliya/
 
 :star: Star me on GitHub — it helps!
 
-[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/rajaprerak/rajaprerak.github.io/commits/master)
-[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://rajaprerak.github.io/)
-[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/rajaprerak/)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 ### Website Preview
 #### Home Page
 <p align="center"> 
   <kbd>
-    <a href="https://rajaprerak.github.io" target="_blank"><img src="website_images/HomePage.gif">
+    <a href="https://jignesh91.github.io/jigneshgondaliya/" target="_blank"><img src="website_images/HomePage.gif">
   </a>
   </kbd>
 </p>
@@ -20,7 +17,7 @@
 #### About Page
 <p align="center"> 
   <kbd>
-    <a href="https://rajaprerak.github.io" target="_blank"><img src="website_images/AboutPage.png">
+    <a href="https://jignesh91.github.io/jigneshgondaliya/" target="_blank"><img src="website_images/about.png">
   </a>
   </kbd>
 </p>
@@ -28,7 +25,7 @@
 #### Projects Page
 <p align="center"> 
   <kbd>
-    <a href="https://rajaprerak.github.io" target="_blank"><img src="website_images/ProjectPage.png">
+    <a href="https://jignesh91.github.io/jigneshgondaliya/" target="_blank"><img src="website_images/ProjectPage.png">
   </a>
   </kbd>
 </p>
